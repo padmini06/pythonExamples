@@ -1,0 +1,1 @@
+"""Generators are function used to create iterators, so that it can be used in the for loop"""
